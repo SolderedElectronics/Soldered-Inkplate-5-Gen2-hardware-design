@@ -1,0 +1,5 @@
+SKU: 333333, 333334, 333335, 333336
+Full product name: Soldered Inkplate 5 Gen2
+Country of origin: Croatia
+HS tariff code: 8531204090
+EAN/UPC barcode: 732388656707, 732388656608, 732388656509, 732388656400
